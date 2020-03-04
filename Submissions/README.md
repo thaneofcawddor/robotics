@@ -9,4 +9,4 @@
 Remember, if you edit files right after you `git clone`, you can be pretty sure you have the most recent version of everything. But when you come back to edit anything, you want to pull the most recent version from Github (other students will be changing README.md) of files as well as any new files *before* you start editing. Use `git pull` to update your local branch, then get to coding!
 
 **Add your name here:**
-1. Thane is here, adding a commit to his sweet commit history block calendar @thaneofcawddor.
+1. Thane is here, adding a commit to his sweet commit history block calendar [@thaneofcawddor](https://github.com/thaneofcawddor).
